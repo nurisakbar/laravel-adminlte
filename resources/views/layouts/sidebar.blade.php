@@ -27,11 +27,11 @@
         <li class="header">MAIN NAVIGATION</li>
         <?php
         $menus = [
-          ['icon'=>'fa fa-dashboard','link'=>'/home','label'=>'Dashboard','submenu'=>[
-            ['icon'=>'fa fa-dashboard','link'=>'link','label'=>'label'],
-            ['icon'=>'fa fa-dashboard','link'=>'link','label'=>'label']
+          ['icon'=>'fa fa-dashboard','link'=>'/home','label'=>'SAMPLE MAIN MENU','submenu'=>[
+            ['icon'=>'fa fa-dashboard','link'=>'link','label'=>'SAMPEL SUMBENU 1'],
+            ['icon'=>'fa fa-dashboard','link'=>'link','label'=>'SAMPEL SUBMENU 2']
           ]],
-          ['icon'=>'fa fa-user','link'=>'/user','label'=>'Pengguna']
+          ['icon'=>'fa fa-user','link'=>'/user','label'=>'PENGGUNA']
         ];
         ?>
 

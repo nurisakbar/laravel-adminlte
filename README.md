@@ -18,6 +18,13 @@ in this project the package is available below :
 12. Font Awesome 5
 13. Sweet Alert
 14. AdminlTE 2
+
+## Screenshoot
+![FireShot Capture 106 - Kelola Pengguna - localhost](https://user-images.githubusercontent.com/5483330/132621014-9f52a341-644d-43fb-8e8e-785cd9a3dc61.png)
+
+
+![FireShot Capture 107 - Login - localhost](https://user-images.githubusercontent.com/5483330/132621145-f647693f-6f7d-4cf3-b5ee-acff2c0bf591.png)
+
 ## How To Use
 
 1. git clone https://github.com/nurisakbar/laravel-adminlte.git
